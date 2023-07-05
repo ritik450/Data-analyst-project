@@ -1,2 +1,1 @@
-# Data-analyst-project
-end to end project
+# Data-analyst-end to end project
